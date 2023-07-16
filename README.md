@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🔭 I’m currently working as software engineer intern at UrsaTechnology and Bashpole Software.
 - 👯 I’m looking to collaborate on preparing for recruiting season this fall.
