@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working as software engineer intern at UrsaTechnology and Bashpole Software.
-- 👯 I’m looking to collaborate on preparing for recruiting season this fall.
+- 👯 I’m looking to collaborate on preparing for recruiting season 2025 spring.
 - 🤔 I’m looking for help with mock interview and resume review.
 - 🌱 I’m currently learning SpringBoot and read DDIA.
 - 💬 Ask me about anything that you think I might have an answer, I will try my best. 
-- ⚡ Fun fact: I have 6 guinea pigs.
+- ⚡ Fun fact: I have 5 guinea pigs.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yanchong-xu-108abb192/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@yx2021) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanchongxu1999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yanchong-xu-108abb192/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@yx2021) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanchongxu1999@gmail.com)
 
 
 
