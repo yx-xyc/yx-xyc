@@ -1,46 +1,76 @@
-<!--
-**yx-xyc/yx-xyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Vincent (Yanchong) Xu
 
-Here are some ideas to get you started:
+I'm an MSCS student at **NYU** who enjoys building reliable systems and turning real-world data into useful tools.  
+I’m especially interested in **concurrency**, **high-performance computing**, and **production-ready backend/data systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
+---
 
-## 💫 About Me:
+## 💫 About Me
 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help 
-- 🌱 I’m currently learning 
-- 💬 Ask me about anything that you think I might have an answer, I will try my best. 
-- ⚡ Fun fact: I have 5 guinea pigs.
+- 🔭 I’m currently working on  
+  Systems + data projects involving concurrency control, scalable pipelines, and performance-focused implementations.
 
+- 🌱 I’m currently learning  
+  Lock-free/low-contention designs, GPU-accelerated data structures, and workflow reliability/observability patterns.
 
-## 🌐 Socials:
+- 👯 I’m looking to collaborate on  
+  Open-source or research-oriented projects in:
+  - concurrent / parallel programming
+  - systems performance + reliability
+  - data-intensive applications with strong engineering rigor
+
+- 🤔 I’m looking for help with  
+  Benchmarking best practices, performance profiling, and clean evaluation design for systems projects.
+
+- 💬 Ask me about  
+  Python/Java/TypeScript, backend architecture, concurrency patterns, OpenMP, or turning messy datasets into usable analytics.
+
+- ⚡ Fun fact  
+  I have **5 guinea pigs** 🐹🐹🐹🐹🐹
+
+---
+
+## 🌐 Socials
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vincent.xu.yx2021@gmail.com)
 
-## 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-### 📊 GitHub Stats:
+## 💻 Tech Stack
+
+**Languages**
+  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frameworks & Tools**
+  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Infra & Data**
+  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Productivity**
+  
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yx-xyc&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=yx-xyc&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 ---
