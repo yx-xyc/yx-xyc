@@ -63,15 +63,6 @@ I’m especially interested in **concurrency**, **high-performance computing**, 
   
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yx-xyc&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=yx-xyc&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
