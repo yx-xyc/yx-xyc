@@ -28,11 +28,7 @@ I’m especially interested in **concurrency**, **high-performance computing**, 
 - ⚡ Fun fact  
   I have **5 guinea pigs** 🐹🐹🐹🐹🐹
 
----
-
-## 🌐 Socials
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vincent.xu.yx2021@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vincent.xu.yx2021@gmail.com)
 
 ---
 
